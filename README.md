@@ -1,10 +1,10 @@
-## my name is chan
-
 ## 🛠️ Tech Stack
 - **Languages**: Kotlin, C++, C
 - **Mobile**: Android (Jetpack Compose)
 - **Tools**: Git, Postman
 
+## 📫 Contact
+- Email: [chan679999@naver.com]  
 <!--
 **cksckckcks/cksckckcks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
