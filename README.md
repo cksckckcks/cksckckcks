@@ -1,7 +1,6 @@
 ## 🛠️ Tech Stack
 - **Languages**: Kotlin, C++, C
-- **Mobile**: Android (Jetpack Compose)
-- **Tools**: Git, Postman
+- **Mobile**: Android
 
 ## 📫 Contact
 - Email: [chan679999@naver.com]  
@@ -19,5 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chan6799)](https://solved.ac/chan6799/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksckckcks&show_icons=true&theme=gotham)
